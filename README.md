@@ -21,7 +21,7 @@ Here is a summary of the projects included in this repository.
     * Edit Distance (Levenshtein distance algorithm)
 
 
-### Resume Parser API
+### 2. Resume Parser API
 
 A Flask-based web application that provides an API for parsing resumes and extracting useful information using the `pyresparser` library.
 
